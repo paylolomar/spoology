@@ -16,18 +16,18 @@
   <div class="row">
      <div  id="opciones" class="col-lg-2">
        <div  class="well well2">
-          algo1
-          <br><br><br><br><br><br>gasparin <br><br><br><br><br>tata tata taaaa
+          Div de la izquierda
+          
        </div> 
      </div>
      <div style="padding: 5px;" id="contenido" class="col-lg-7">
        <div class="well">
-          algo2
+          Div de el medio
        </div>
      </div>
      <div style="padding: 5px;" id="pendientes" class="col-lg-3">
        <div class="well">
-          algo3
+          Div de la derecha
        </div>
      </div>
   </div>
