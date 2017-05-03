@@ -16,7 +16,7 @@
   <div class="row">
      <div  id="opciones" class="col-lg-2">
        <div  class="well well2">
-          Div de la izquierda
+         Div de la izquierda
           
        </div> 
      </div>
