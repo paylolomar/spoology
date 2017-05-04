@@ -38,6 +38,24 @@
 		</div>
 		<div class="col-lg-4 col-sm-4 col-xs-4 col-md-4"></div>
 	</div>
+</div><br>
+<div id="page-footer">
+	<div class="container">
+		<div id="copyright-and-links"  class="well col-lg-12 col-sm-12 col-xs-12 col-md-12">
+	      Spoology &copy;
+	      2017        <span role="separator" class="divider">&middot;</span>
+	        <a id="footer-nav-privacy" href="https://www.schoology.com/privacy" target="_blank">Privacy Policy</a>
+	        <span class="divider">&middot;</span>
+	        <a id="footer-nav-privacy" href="https://www.schoology.com/terms-of-use" target="_blank">Terms of Use</a>
+	      <span class="divider">&middot;</span>
+	      <a id="footer-nav-help-center" href="https://support.schoology.com/hc/en-us" rel="external" target="_blank">Help Center</a> 
+	    </div>
+	    <div id="trust" style="" align="right">
+	      <a href="https://www.schoology.com/privacy" target="_blank" id="privacy-link">
+	        <img alt="Privo Privacy Certified" src="https://privo.com/images/certLogos/H_PPC_B.png" />
+	      </a>
+	    </div>
+	</div>
 </div>
 </body>
 </html>
