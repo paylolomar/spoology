@@ -1,0 +1,68 @@
+.texto-rojo{
+	color: #ff0000;
+	background-color: #000000;
+}
+#opciones{
+	padding: 5px;
+}
+.well2{
+	background-color: gray;
+	height: absolute;
+	border-color: blue;
+}
+#cuadr{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+
+
+
+.submit-btn{
+	cursor: pointer;
+	background: #5fb8d5;
+	border: 1px solid #4baecf;
+	
+	
+	text-align: center;
+	padding-bottom: 5px;
+	margin-bottom: 10px; 
+}
+#trust{
+	
+}
+#page-footer{
+	background-color: #efefef;
+	
+	height: auto;
+}
+#copyright-and-links{
+	
+	
+}
+#btn-instructor{
+	color: #000000; 
+	font-size: 25px; 
+	text-align: center; 
+	background-color: #7ed0f7; 
+
+}
+#btn-estudiante{
+	color: #000000; 
+	font-size: 25px;  
+	text-align: center; 
+	background-color: #7ed0f7;
+	margin-left: 5px;
+}
+#btn-familiares{
+	background-color: #c9c3c3; 
+	margin-left: 100px; 
+	margin-top: 10px; 
+	text-align: center; 
+	font-size: 15px; 	
+}
+#primer-nombre{
+	box-sizing: 60px;
+}
