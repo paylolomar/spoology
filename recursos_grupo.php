@@ -43,31 +43,27 @@
      <div style="padding: 5px;" id="contenido" class="col-lg-3">
        <div class="well">
           <li class="btn" style="font-size: 9px"><span class="glyphicon glyphicon-triangle-bottom"></span></li>
-          Recursos
-          <!--<button><img src="../img/icon/agregar-coleccion.png" class="img-responsive"></button>-->
-          <button class="text-right" style="font-size:14px"> <i class="fa fa-archive"></i></button>  
-          <button class="text-right""><span class="glyphicon glyphicon-triangle-bottom"></span></button><br><br>
-          <div id="div-incio">
-            <button class="text-justify form-control" style="font-size:14px"><i class="fa fa-archive"> Inicio</i></button>  
-          </div>
+      
+          Recursos del grupo
+              <br><br>
+          <small><p>Sin grupos</p></small>
        </div>
      </div>
      <div style="padding: 5px;" id="pendientes" class="col-lg-7">
        <div class="well">
-          <i class="fa fa-archive" style="font-size:24px"> Inicio</i><br><br>
-          <button><span class="glyphicon glyphicon-inbox"></span> Agregar recursos</button><br>
-          <br>
-          <div id="div-chk-recurso" class="col-lg-1">
-            <input type="checkbox" name="chk-recurso" id=chk-recurso>
-          </div>
-          <div id="div-titulo" class="col-lg-9">
-            <p>Título</p>
-          </div>
-          <div id="div-cantidad" class="col-lg-2">
-            <p>0 de 0</p>
+          <i style="font-size:24px" class="fa">&#xf1ad;</i> User school<br><br>
+          <div>
+            <div id="div-vacio" class="col-lg-1">
+            </div>
+
+            <div id="div-titulo" class="col-lg-9">
+              <p>Titulo</p>
+            </div>
+            <div id="div-cantidad" class="col-lg-2">
+              <p>0 de 0</p>
+            </div>
           </div>
        </div>
-       <small><p class="text-center">No hay elementos en esta colección actualmente.</p></small>
      </div>
   </div>
 </div>
