@@ -42,13 +42,17 @@
      </div>
      <div style="padding: 5px;" id="contenido" class="col-lg-3">
        <div class="well">
-      Div de enmedio
+        <li class="btn" style="font-size: 9px"><span class="glyphicon glyphicon-triangle-bottom"></span></li>
+        Mis aplicaciones de recursos
         <br><br>
+        <a href="#">
+          <span class="glyphicon glyphicon-briefcase"></span> Instalar aplicaciones
+        </a>
        </div>
      </div>
      <div style="padding: 5px;" id="pendientes" class="col-lg-7">
        <div class="well">
-          Div de la derecha
+        
        </div>
      </div>
   </div>
