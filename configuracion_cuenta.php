@@ -25,7 +25,7 @@
        <div class="well">
         <h4><strong>Cuenta</strong></h4>
         <ul class="nav nav-tabs">
-          <li role="presentation"><a href="#">Notificaciones</a></li>
+          <li role="presentation"><a href="menu_notificaciones.php">Notificaciones</a></li>
           <li role="presentation" class="active"><a href="#">Configuracion de la cuenta</a></li>
           <li role="presentation"><a href="#">Configuracion de privacidad</a></li>
           <li role="presentation"><a href="#">Papelera de reciclaje</a></li>
