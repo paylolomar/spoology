@@ -22,14 +22,14 @@
 			<div class="well">
 				<h3><strong>Sign up for Spoology</strong><a style="text-align: right; margin-right: 1px; color: black;" aling="right" href="#" class="btn" >Back</a></h3>
 				<div class=" col-lg-6 col-sm-6 col-xs-6 col-md-6">
-					<input type="text" id="txt-primer-nombre" class="form-control" placeholder="First Name"></input>
+					<input type="text" id="txt-primer-nombre" class="form-control" placeholder="First Name">
 				</div>
 				<div class=" col-lg-6 col-sm-6 col-xs-6 col-md-6">
-					<input type="text" id="txt-primer-apellido" class="form-control" placeholder="Last Name"></input>
+					<input type="text" id="txt-primer-apellido" class="form-control" placeholder="Last Name">
 				</div>
-				<input type="email" id="txt-correo" class="form-control" placeholder="Email Address"></input>
-				<input type="password" id="txt-contrasena" class="form-control" placeholder="Password"></input>
-				<input type="password" id="txt-contrasena" class="form-control" placeholder="Confirm Password"></input>
+				<input type="email" id="txt-correo" class="form-control" placeholder="Email Address">
+				<input type="password" id="txt-contrasena" class="form-control" placeholder="Password">
+				<input type="password" id="txt-contrasena" class="form-control" placeholder="Confirm Password">
 				<div>
 					<label><input type="checkbox"></label>
 					<p style="background-color: white;"> No soy robot o un programa malicioso</p>	
@@ -37,7 +37,7 @@
 				
 				
 				<br>
-				<button id="btn-registrar" class="btn btn-primary">Register</button>
+				<button id="btn-registrar" class="btn btn-primary form-control">Register</button>
 
 			</div> 
 		</div>
@@ -46,7 +46,7 @@
 </div><br>
 <div id="page-footer">
 	<div class="container">
-		<div id="copyright-and-links"  class="well col-lg-12 col-sm-12 col-xs-12 col-md-12">
+		<div id="copyright-and-links"  class="col-lg-12 col-sm-12 col-xs-12 col-md-12">
 	      Spoology &copy;
 	      2017        <span role="separator" class="divider">&middot;</span>
 	        <a id="footer-nav-privacy" href="https://www.schoology.com/privacy" target="_blank">Privacy Policy</a>
