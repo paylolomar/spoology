@@ -8,7 +8,9 @@
 			echo "
 			   <div style='padding: 5px;'  class='col-lg-7'>
          		<div class='well' id='contenido'>
-            <h3>Actividad Reciente</h3>";
+            <h3>Actividad Reciente</h3>
+            ";
+
                 while ($fila = $conexion->obtenerFila($consulta)) {
                   echo "codigo actualizacion: ".$fila["CODIGO_ACTUALIZACION"]." Y contenido actualizacion: ".$fila["CONTENIDO_ACTUALIZACION"]."<br>";
                 }
