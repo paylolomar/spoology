@@ -1,3 +1,7 @@
+<?php session_start(); 
+	if(!isset($_SESSION['codigo_usuario']))
+		header("Location: index.php");
+?>
 <nav class="navbar" style="background-color: rgb(68, 80, 93);">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
