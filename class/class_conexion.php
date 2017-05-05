@@ -5,7 +5,7 @@
 		private $usuario="root";
 		private $contrasena="";
 		private $host="localhost";
-		private $baseDatos="bd_schoology";
+		private $baseDatos="DB_SCHOOLOGY";
 		private $puerto="3306";
 		private $link;
 
