@@ -8,21 +8,21 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a style="color: white;" class="navbar-brand" href="#" >Spoology</a>
+      <a style="color: white; background-color: rgb(68, 80, 93);" class="navbar-brand" href="#" >Spoology</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="dropdown">
-          <a style="color: white" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="glyphicon glyphicon-search" aria-hidden="true"></span></a>
+          <a style="color: white; background-color: rgb(68, 80, 93);" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="glyphicon glyphicon-search" aria-hidden="true"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#"><input type="text" id="" name="" class="form-control" placeholder="Buscar"></a></li>  
           </ul>
         </li>
-        <li><a href="#" style="color: white">Inicio</a></li>
+        <li><a href="#" style="color: white; background-color: rgb(68, 80, 93);">Inicio</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color: white">Cursos <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color: white; background-color: rgb(68, 80, 93);">Cursos <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#">algun curso</a></li>
             <li role="separator" class="divider"></li>
@@ -43,7 +43,7 @@
         </li>
 
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color: white">Grupos <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color: white; background-color: rgb(68, 80, 93);">Grupos <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#">algun grupo</a></li>
             <li role="separator" class="divider"></li>
@@ -64,7 +64,7 @@
         </li>
 
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color: white">Recursos <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color: white; background-color: rgb(68, 80, 93);">Recursos <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#"> # Personal</a></li>
             <li role="separator" class="divider"></li>
@@ -78,7 +78,7 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-          <a style="color: white" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a>
+          <a style="color: white; background-color: rgb(68, 80, 93);" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a>
           <ul class="dropdown-menu">
             <li><a>Solicitudes</a></li>
             <li role="separator" class="divider"></li>
@@ -89,7 +89,7 @@
           </ul>
         </li>
         <li>
-          <a style="color: white" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
+          <a style="color: white; background-color: rgb(68, 80, 93);" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
           <ul class="dropdown-menu">
             <li><a>Solicitudes</a></li>
             <li role="separator" class="divider"></li>
@@ -100,7 +100,7 @@
           </ul>
         </li>
         <li>
-          <a style="color: white" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span></a>
+          <a style="color: white; background-color: rgb(68, 80, 93);" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#">Action</a></li>
             <li><a href="#">Another action</a></li>
@@ -110,9 +110,9 @@
           </ul>
         </li>
         
-        <li><a style="color: white">Nombre del individuo</a></li>
+        <li><a style="color: white; background-color: rgb(68, 80, 93);">Nombre del individuo</a></li>
         <li class="dropdown">
-          <a style="color: white" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="caret"></span></a>
+          <a style="color: white; background-color: rgb(68, 80, 93);" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#">Action</a></li>
             <li><a href="#">Another action</a></li>
@@ -121,7 +121,7 @@
             <li><a href="cerrar-sesion.php">Sing out</a></li>
           </ul>
         </li>
-        <li><a style="color: white" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span></a></li>
+        <li><a style="color: white; background-color: rgb(68, 80, 93);" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span></a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
