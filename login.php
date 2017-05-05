@@ -21,6 +21,7 @@
 		<div class="col-lg-4 col-sm-4 col-xs-4 col-md-4" style="margin-top: 80px;">
 			<div class="well">
 				<h3><strong>Login in to Spoology</strong></h3>
+				<p>All fields are required</p>
 				<input type="text" name="" id="txt-correo" class="form-control" placeholder="Email or Username">
         <input type="text" name="" id="txt-correo" class="form-control" placeholder="Password">
 				<p></p> 
