@@ -40,13 +40,13 @@
 			</div>
 		</div>
 		
-	</div>
+	
 
 <br>
 <br><br><br><br><br><br><br><br>
 <div id="page-footer">
 	<div class="container">
-		<div id="copyright-and-links"  class="well col-lg-12 col-sm-12 col-xs-12 col-md-12">
+		<div id="copyright-and-links"  class="col-lg-12 col-sm-12 col-xs-12 col-md-12">
 	      Spoology &copy;
 	      2017        <span role="separator" class="divider">&middot;</span>
 	        <a id="footer-nav-privacy" href="https://www.schoology.com/privacy" target="_blank">Privacy Policy</a>
