@@ -110,12 +110,12 @@
           </ul>
         </li>
         
-        <li><a style="color: white; background-color: rgb(68, 80, 93);">Nombre del individuo</a></li>
+        <li><a href="perfil.php" style="color: white; background-color: rgb(68, 80, 93);">Nombre del individuo</a></li>
         <li class="dropdown">
           <a style="color: white; background-color: rgb(68, 80, 93);" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
+            <li><a href="menu_notificaciones.php">Notificaciones</a></li>
+            <li><a href="configuracion_cuenta.php">Configuración de la cuenta</a></li>
             <li><a href="#">Something else here</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="cerrar-sesion.php">Sing out</a></li>
