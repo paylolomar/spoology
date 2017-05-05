@@ -20,7 +20,7 @@
 		<div class="col-lg-4 col-sm-4 col-xs-4 col-md-4"></div>
 		<div id="" class="col-lg-4 col-sm-4 col-xs-4 col-md-4"> 
 			<div class="well">
-				<h3><strong>Sign up for Spoology</strong><a style="text-align: right; margin-right: 1px; color: black;" aling="right" href="#" class="btn" >Back</a></h3>
+				<h3><strong>Sign up for Spoology</strong><a style="text-align: right; margin-right: 1px; color: black;" aling="right" href="registro.php" class="btn" >Back</a></h3>
 				<div class=" col-lg-6 col-sm-6 col-xs-6 col-md-6">
 					<input type="text" id="txt-primer-nombre" class="form-control" placeholder="First Name">
 				</div>
