@@ -4,8 +4,7 @@
     include_once("../class/class_conexion.php");
     $conexion = new Conexion();
     $consulta=$conexion->ejecutarInstruccion('SELECT * FROM tbl_actualizaciones');
-
-			echo "
+      echo "
 			   <div style='padding: 5px;'  class='col-lg-7'>
          		<div class='well' id='contenido'>
             <h3>Actividad Reciente</h3>

@@ -13,6 +13,7 @@ function actividad(){
         });
 }
 
+actividad();
 function calificaciones(){
   
   $.ajax({
