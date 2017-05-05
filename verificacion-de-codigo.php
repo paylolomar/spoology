@@ -23,7 +23,7 @@
 				<h3><strong>Sign up for Spoology</strong><a style="text-align: right; margin-right: 1px; color: black;" aling="right" href="#" class="btn" >Back</a></h3>
 				<input type="text" name="" id="txt-confirmar-codigo" class="form-control" placeholder="Access Code">
 				 <p>Enter the access code provided by your instructor</p>
-        			<button class="btn btn-primary form-control" id="btn-confirmar-codigo">Continue</button>
+        			<button class="btn btn-primary form-control form-control" id="btn-confirmar-codigo">Continue</button>
 			</div>
 		</div>
 		<div class="col-lg-4 col-sm-4 col-xs-4 col-md-4"></div>
@@ -32,7 +32,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div id="page-footer">
   <div class="container">
-    <div id="copyright-and-links"  class="well col-lg-12 col-sm-12 col-xs-12 col-md-12">
+    <div id="copyright-and-links"  class="col-lg-12 col-sm-12 col-xs-12 col-md-12">
         Spoology &copy;
         2017        <span role="separator" class="divider">&middot;</span>
           <a id="footer-nav-privacy" href="https://www.schoology.com/privacy" target="_blank">Privacy Policy</a>
