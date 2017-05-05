@@ -20,23 +20,31 @@
 <div class="container-fluid">
   <div class="row">
      <div  id="opciones" class="col-lg-2">
-       <div  class="well well2">
-         Div de la izquierda
+       <div  class="well ">
+         <?php
+        include_once("div-izquierdo.php");
+         ?>
           
        </div> 
      </div>
-     <div style="padding: 5px;" id="contenido" class="col-lg-7">
-       <div class="well">
-          Div de el medio
+
+     <div id="principal">
+       <div style="padding: 5px;"  class="col-lg-7">
+         <div class="well" id="contenido">
+            Div de el medio
+         </div>
        </div>
-     </div>
-     <div style="padding: 5px;" id="pendientes" class="col-lg-3">
-       <div class="well">
-          Div de la derecha
+
+       <div style="padding: 5px;" id="pendientes" class="col-lg-3">
+         <div class="well">
+            Div de la derecha
+         </div>
        </div>
-     </div>
+      </div>
+
   </div>
 </div>
+  <script src="js/controlador.js"></script>
 	<script src="js/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 </body>
