@@ -1,3 +1,8 @@
+
+
+<?php 
+
+?> 
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,10 +27,10 @@
 			<div class="well">
 				<h3><strong>Login in to Spoology</strong></h3>
 				<p>All fields are required</p>
-				<input type="text" name="" id="txt-correo" class="form-control" placeholder="Email or Username">
-        <input type="text" name="" id="txt-correo" class="form-control" placeholder="Password">
+				<input type="text" name="Email" id="Email" class="form-control" placeholder="Email or Username">
+        <input type="text" name="pasword" id="password" class="form-control" placeholder="Password">
 				<p></p> 
-        			<button class="btn btn-primary" id="btn-confirmar-codigo">Log in</button>
+        			<button class="btn btn-primary" name="ingresar" id="ingresar">Log in</button>
 			</div>
 		</div>
 		<div class="col-lg-4 col-sm-4 col-xs-4 col-md-4"></div>

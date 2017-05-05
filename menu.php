@@ -1,6 +1,6 @@
-<?php session_start(); 
-	if(!isset($_SESSION['codigo_usuario']))
-		header("Location: index.php");
+<?//php session_start(); 
+	//if(!isset($_SESSION['codigo_usuario']))
+		//header("Location: login.php");
 ?>
 <nav class="navbar" style="background-color: rgb(68, 80, 93);">
   <div class="container-fluid">
@@ -12,7 +12,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a style="color: white; background-color: rgb(68, 80, 93);" class="navbar-brand" href="#" >Spoology</a>
+      <a style="color: white; background-color: rgb(68, 80, 93);" class="navbar-brand" href="home.php" >Spoology</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -24,7 +24,7 @@
             <li><a href="#"><input type="text" id="" name="" class="form-control" placeholder="Buscar"></a></li>  
           </ul>
         </li>
-        <li><a href="#" style="color: white; background-color: rgb(68, 80, 93);">Inicio</a></li>
+        <li><a href="home.php" style="color: white; background-color: rgb(68, 80, 93);">Inicio</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color: white; background-color: rgb(68, 80, 93);">Cursos <span class="caret"></span></a>
           <ul class="dropdown-menu">
@@ -82,16 +82,10 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-          <a style="color: white; background-color: rgb(68, 80, 93);" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a>
-          <ul class="dropdown-menu">
-            <li><a>Solicitudes</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-          </ul>
+          <a style="color: white; background-color: rgb(68, 80, 93);" href="mensajes.php"   role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a>
+          
         </li>
+
         <li>
           <a style="color: white; background-color: rgb(68, 80, 93);" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
           <ul class="dropdown-menu">
@@ -104,14 +98,7 @@
           </ul>
         </li>
         <li>
-          <a style="color: white; background-color: rgb(68, 80, 93);" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-          </ul>
+          <a style="color: white; background-color: rgb(68, 80, 93);" href="home.php" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span></a>
         </li>
         
         <li><a href="perfil.php" style="color: white; background-color: rgb(68, 80, 93);">Nombre del individuo</a></li>

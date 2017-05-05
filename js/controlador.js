@@ -13,7 +13,6 @@ function actividad(){
         });
 }
 
-actividad();
 function calificaciones(){
   
   $.ajax({
@@ -58,3 +57,5 @@ function mensajes(){
           }
         });
 }
+
+actividad();
