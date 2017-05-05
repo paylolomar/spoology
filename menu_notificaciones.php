@@ -26,7 +26,7 @@
         <h4><strong>Cuenta</strong></h4>
         <ul class="nav nav-tabs">
           <li role="presentation" class="active"><a href="#">Notificaciones</a></li>
-          <li role="presentation"><a href="#">Configuracion de la cuenta</a></li>
+          <li role="presentation"><a href="configuracion_cuenta.php">Configuracion de la cuenta</a></li>
           <li role="presentation"><a href="#">Configuracion de privacidad</a></li>
           <li role="presentation"><a href="#">Papelera de reciclaje</a></li>
         </ul><br>
