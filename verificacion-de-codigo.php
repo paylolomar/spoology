@@ -20,7 +20,7 @@
 		<div class="col-lg-4 col-sm-4 col-xs-4 col-md-4"></div>
 		<div class="col-lg-4 col-sm-4 col-xs-4 col-md-4" style="margin-top: 80px;">
 			<div class="well">
-				<h3><strong>Sign up for Spoology</strong><a style="text-align: right; margin-right: 1px; color: black;" aling="right" href="#" class="btn" >Back</a></h3>
+				<h3><strong>Sign up for Spoology</strong><a style="text-align: right; margin-right: 1px; color: black;" aling="right" href="registro.php" class="btn" >Back</a></h3>
 				<input type="text" name="" id="txt-confirmar-codigo" class="form-control" placeholder="Access Code">
 				 <p>Enter the access code provided by your instructor</p>
         			<button class="btn btn-primary form-control form-control" id="btn-confirmar-codigo">Continue</button>
