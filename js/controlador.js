@@ -5,7 +5,7 @@ function actividad(){
           method:"POST",
           data: parametros,
           success:function(respuesta){
-            $("#contenido").html(respuesta);
+            $("#principal").html(respuesta);
           },
           error:function(){
             alert("Ocurrio un error.");
