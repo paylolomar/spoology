@@ -24,15 +24,15 @@
 		<div id=""  class="col-lg-4 col-sm-4 col-xs-4 col-md-4" > 
 				<div class="row">	
 					<div class="well" >
-					 <h4 style="margin-left: 40px;"><strong>Sign up for Spoology</strong><a style="text-align: right; margin-right: 1px; color: black;" aling="right" href="#" class="btn" >Back</a></h4>
+					 <h4 style="margin-left: 40px;"><strong>Sign up for Spoology</strong></h4>
 					 
 						<ul>
-								<a class="btn" id="btn-instructor" href="www.google.com">Instructor</a>
+								<a class="btn" id="btn-instructor" href="registro_basico.php">Instructor</a>
 							
-								<a class="btn" id="btn-estudiante" href="">Student</a>
+								<a class="btn" id="btn-estudiante" href="verificacion-de-codigo.php">Student</a>
 							<br>
 							
-								<a class="btn" id="btn-familiares" href="">Parent</a>
+								<a class="btn" id="btn-familiares" href="verificacion-de-codigo.php">Parent</a>
 							
 						</ul>
 					</div>
